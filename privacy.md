@@ -5,7 +5,7 @@ title: Hueby — Privacy Policy
 
 <div class="prose">
   <h1>Privacy Policy</h1>
-  <p class="updated">Last updated: 13 September 2026</p>
+  <p class="updated">Last updated: 19 October 2026</p>
 
   <p>Hueby ("the app") is developed by Mark Wong ("we", "us"). This policy explains what data the app accesses and how it is used.</p>
 
@@ -47,6 +47,7 @@ title: Hueby — Privacy Policy
 
   <h2>Third-Party Services</h2>
   <p>The app contains no analytics, no advertising, and no third-party SDKs. Nothing tracks you, in the app or across other apps and websites.</p>
+  <p>When you open the Studio plans, the app downloads a small public file from this website (<code>promo.json</code>) to check whether a sale is running. The request carries nothing about you: no identifiers, no account, and nothing from the app. Like any website, GitHub, which hosts it, receives your device's IP address with the request; we never see or keep it.</p>
 
   <h2>Children</h2>
   <p>Hueby is suitable for all ages. Because it collects no data at all, it collects no data from children.</p>
