@@ -5,7 +5,7 @@ title: "Hueby: Privacy Policy"
 
 <div class="prose">
   <h1>Privacy Policy</h1>
-  <p class="updated">Last updated: [RELEASE DATE: owner to set]</p>
+  <p class="updated">Last updated: 29 October 2026</p>
 
   <p>Hueby ("the app") is developed by Mark Wong ("we", "us"). This policy explains what the app accesses, what it sends, and the choices you have.</p>
 
@@ -59,7 +59,7 @@ title: "Hueby: Privacy Policy"
 
   <p>In the European Economic Area and the United Kingdom, Hueby asks you once, and sends nothing unless you say yes. Everywhere else, sharing is on by default, on the basis of our legitimate interest in improving the app, and you can turn it off. In every country, <strong>Settings, then Privacy, then Share usage data</strong> turns it off at once.</p>
 
-  <p>The counts are processed by Mixpanel, Inc. on our behalf, under its data processing agreement, and are stored in the European Union. They are kept for [RETENTION: owner to confirm].</p>
+  <p>The counts are processed by Mixpanel, Inc. on our behalf, under its data processing agreement, and are stored in the European Union. They are kept for up to two years, then deleted.</p>
 
   <h2>In-App Purchases</h2>
   <p>Picture packs, the Painting Tools, packs of Finds, and the Studio subscription (and the one-time Studio some players bought earlier) are handled entirely by Apple's App Store. We never see your payment details. "Restore purchases" simply asks Apple what you already own. If you share usage data, the counts record the product and the outcome of a purchase, such as completed or cancelled, and nothing about you.</p>
