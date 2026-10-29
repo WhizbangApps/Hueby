@@ -1,0 +1,4 @@
+{
+  "_note": "Read by the Hueby app's Studio paywall (yearly) and Painting Tools offers (tools). Dates MUST match the price change scheduled in App Store Connect; if the ASC period changes, update these the same day. Format: \"yearly\" or \"tools\": {\"percentOff\": 33, \"starts\": \"YYYY-MM-DD\", \"ends\": \"YYYY-MM-DD\"} (inclusive, local days). No key = no promotion. Runbook: Hueby repo docs/promotions.md",
+  "tools": { "percentOff": 30, "starts": "2026-10-24", "ends": "2026-10-25" }
+}
